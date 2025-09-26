@@ -1,32 +1,39 @@
-# Olá! Eu sou [Seu Nome], e sou o @Azeve17 👋
+# Olá! Eu sou Marcelo Azevedo, e sou o @Azeve17 👋
 
-### Transição de Carreira: De [Sua Área Anterior] para Desenvolvedor!
+### Transição de Carreira: De Operador de Torno CNC para Analista/Desenvolvedor!
 
-Atualmente estou focado em me tornar um **Analista/Desenvolvedor** com base sólida em dados e lógica de programação.
+Minha base técnica e foco em precisão, vindas da experiência como **Operador de Torno CNC**, me motivaram a migrar para a área de TI.
 
-Estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e dedicando meu tempo a aprender e aplicar novas tecnologias.
+**Concluí o curso de Análise e Desenvolvimento de Sistemas (ADS) em Julho/2025** e dedico meu tempo a aprender e aplicar novas tecnologias com foco em dados e lógica de programação.
 
 ---
 
-### 🚀 Foco Atual
+### 🚀 Foco Atual e Habilidades
 
-* **Linguagens:** **Python** (com foco em Data Science e Backend) e **JavaScript** (com foco em Node.js e Front-end básico).
-* **Banco de Dados:** SQL (PostgreSQL, MySQL).
-* **Ferramentas:** Git e GitHub.
+Estou investindo no ecossistema de desenvolvimento Full Stack, com ênfase em dados:
+
+| Categoria | Habilidades |
+| :--- | :--- |
+| **Linguagens** | Python, JavaScript |
+| **Banco de Dados** | SQL (PostgreSQL, MySQL) |
+| **Controle de Versão** | Git e GitHub |
+| **Área de Interesse** | Análise de Dados e Backend |
+
+---
 
 ### 🌱 O Que Estou Aprendendo Agora
 
 Estou aprofundando meus conhecimentos em:
--   Bibliotecas de Python para dados (Pandas, Matplotlib).
--   Desenvolvimento de APIs com Node.js/Express.
+-   **Análise de Dados com Python** (bibliotecas como Pandas e Matplotlib).
+-   **Desenvolvimento Backend** com Node.js/Express.
 
 ### 🤝 Quer Colaborar?
 
-Estou aberto a **projetos *open source* básicos** ou desafios que envolvam Python, JavaScript e manipulação de dados. Se tiver algo que eu possa ajudar, me chame!
+Estou aberto a **projetos *open source* básicos** ou desafios que envolvam Python, JavaScript e manipulação de dados.
 
 ### 📫 Como Me Encontrar
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [Link para o seu LinkedIn] |
-| **Email** | [Seu email de contato] |
+| **LinkedIn** | [https://www.linkedin.com/in/marcello-azevedo-ba734451/](https://www.linkedin.com/in/marcello-azevedo-ba734451/) |
+| **Email** | marcell.azever@gmail.com |
