@@ -1,5 +1,5 @@
 <!-- Banner / Saudação -->
-<h1 align="left">Olá 👋, eu sou o Marcello</h1>
+<h1 align="left">Olá 👋, eu sou o Marcelo</h1>
 <p align="left">
 Estudante de ADS e dev em formação. Curioso por tecnologia, gosto de resolver problemas reais com código e aprender coisas novas todo dia.
 </p>
