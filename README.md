@@ -45,7 +45,7 @@ Adoro aprender em equipe e trocar conhecimento!
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="mailto:marcelo.azevedo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-marcelo.azevedo.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:marcell.azever@gmail.com"><img src="https://img.shields.io/badge/Gmail-marcell.azever%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcelo-azevedo-ba734451/"><img src="https://img.shields.io/badge/LinkedIn-Marcelo%20Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
